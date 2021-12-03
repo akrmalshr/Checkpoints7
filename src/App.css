@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  color: black;
 }
 
 .App-logo {
@@ -14,14 +15,14 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color:crimson;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: rgb(14, 13, 13);
 }
 
 .App-link {
@@ -36,3 +37,70 @@
     transform: rotate(360deg);
   }
 }
+h1{
+  color: rgb(67, 233, 225);
+  text-align: center;
+  justify-content: center;
+ margin-top: 30px;
+}
+img{
+  justify-content: center;
+  margin-right: 3000px;
+  border: solid;
+  border: solid;
+  margin-left:600px;
+  width: 800px;
+}
+div{
+  color: black;
+}
+.react{
+  color: black;
+
+}
+.App{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: block;
+background-color:rgb(59, 59, 172);
+padding: 50px;
+}
+
+path {
+  background-color: yellow; 
+  list-style-type: none;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+li{
+  float: left;
+  display: block;
+  color: #131212;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  color:black;
+  text-justify: distribute;
+  border:white;
+background-color: black;
+color: rgb(228, 38, 38);
+text-emphasis-color:black;
+margin-bottom: 100px;
+font-size: 30px;
+
+
+}
+.navbar{
+  color: black;
+}
+
+lu{
+  color: black;
+}
+
+  link{
+font: bold;
+
+  }
